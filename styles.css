@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  font-weight: bold;
+}
+
+.banner {
+  color: white;
+  padding: 30px 0px 30px 0px;
+  background-color: saddlebrown;
+}
+
+.leftmenu {
+  background-color: orange;
+}
+
+.topmenu {
+  background-color: peru;
+}
+
+.main {
+  background-color: lightgray;
+  padding: 60px 0px 60px 0px;
+}
+
+.photored {
+  background-color: indianred;
+}
+
+.photoblue {
+  background-color: mediumturquoise;
+}
+
+.footer {
+  color: white;
+  background-color: saddlebrown;
+}
+
+.photo {
+  background-color: lightgray;
+}
